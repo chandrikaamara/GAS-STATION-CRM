@@ -162,5 +162,29 @@ The application follows a modular structure, integrating objects, flows, automat
 
 ---
 
-## 📂 Folder Structure
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🤝 Contributions
+
+Contributions, issues, and feedback are welcome!  
+Feel free to open a pull request or raise an issue.
+
+---
+
+## 🙋‍♀️ Author
+
+**Chandrika Amara**  
+Salesforce Platform Developer | Web Developer | Tech Enthusiast  
+🔗 [https://in.linkedin.com/in/chandrika-amara](#) | 🌐 [Portfolio](#)
+
+---
+
+
 
