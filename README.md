@@ -147,7 +147,7 @@ The application follows a modular structure, integrating objects, flows, automat
 ## 🎥 Demo & Screenshots
 
 🔗 [Watch the Project Demo Video](#)  
-📸 Screenshots included under `docs/screenshots/`
+📸 Screenshots included under `CRM PROJECT/`
 
 ---
 
