@@ -1,4 +1,5 @@
 ## 🚀 Project Demo
+## 🎥 Demo
 
 🎥 **Watch the Demo Video**: [Click here to view the demo](https://drive.google.com/file/d/1alk9qd02YFv9DXzJudVsZg7W-5KF0f2w/view?usp=sharing)
 
@@ -150,11 +151,6 @@ The application follows a modular structure, integrating objects, flows, automat
 - User training and maintenance plan included
 
 ---
-
-## 🎥 Demo & Screenshots
-
-🔗 [Watch the Project Demo Video](#)  
-📸 Screenshots included under `CRM PROJECT/`
 
 ---
 
