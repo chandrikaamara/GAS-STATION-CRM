@@ -77,7 +77,7 @@ The application follows a modular structure, integrating objects, flows, automat
 
 ## 🗃 Data Model
 
-![Data Model Diagram](CRM%20PROJECT/data_Model.png)
+![Data Model Diagram](CRM%20PROJECT/data%20Model.png)
 
 ### Custom Objects & Fields:
 - **Supplier:** Name, Location, Contact Info
