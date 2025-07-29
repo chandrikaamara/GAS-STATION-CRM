@@ -71,13 +71,13 @@ This app solves common problems in manual gas station operations such as data du
 
 The application follows a modular structure, integrating objects, flows, automation tools, and security layers in a seamless Salesforce environment.
 
-![Architecture Diagram](CRM PROJECT/Architecture.png)
+![Architecture Diagram](CRM%20PROJECT/Architecture.png)
 
 ---
 
 ## 🗃 Data Model
 
-![Data Model Diagram](CRM_PROJECT/data_Model.png)
+![Data Model Diagram](CRM%20PROJECT/data_Model.png)
 
 ### Custom Objects & Fields:
 - **Supplier:** Name, Location, Contact Info
